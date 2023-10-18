@@ -379,12 +379,6 @@ input[type=number] {
     letter-spacing: 3.5px;
   }
   
-  .front-card_name-date {
-    display: flex;
-    justify-content: space-between;
-    margin-top: var(--size-200);
-  }
-  
   .front-card_name {
     font-size: 0.8rem;
     letter-spacing: 2px;
