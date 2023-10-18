@@ -248,7 +248,7 @@ input[type=number] {
 }
 
 .button {
-  padding: var(--size-250) var(--size-200);
+  padding: var(--size-200);
   border: none;
   border-radius: 8px;
   color: var(--clr-white);
