@@ -123,9 +123,8 @@ input[type=number] {
   background-image: url(./images/bg-card-front.png);
   background-repeat: no-repeat;
   padding: var(--size-300);
-  /* margin-left: var(--size-800); */
+  margin-left: var(--size-800);
   margin-top: var(--size-400);
-  margin-left: 10rem;
 }
 
 .front-card_logo {
@@ -134,7 +133,7 @@ input[type=number] {
 
 .front-card_card-number {
   font-size: 1.725rem;
-  letter-spacing: 4px;
+  letter-spacing: 5px;
 }
 
 .front-card_name-date {
@@ -160,8 +159,7 @@ input[type=number] {
   background-image: url(./images/bg-card-back.png);
   background-repeat: no-repeat;
   padding: var(--size-650);
-  /* margin-left: 10rem; */
-  margin-left: 15rem;
+  margin-left: 10rem;
   margin-top: var(--size-500);
 }
 
